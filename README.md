@@ -75,7 +75,6 @@ index.html로 실행하고싶으면 아래 사진처럼 코드 추가
 
 # 실행 결과
 ![스크린샷 2025-05-21 120322](https://github.com/user-attachments/assets/475f577e-4f3c-4bfc-9729-35d5b4c55aec)
-
 index.html코드에 style 추가
 ![스크린샷 2025-05-21 152527](https://github.com/user-attachments/assets/2b660080-4254-4ad4-8c82-e590d4f3bdbe)
 ![스크린샷 2025-05-21 152715](https://github.com/user-attachments/assets/576efab1-c5f3-4c6f-8ef4-f7750e594c84)
