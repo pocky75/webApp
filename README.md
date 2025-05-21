@@ -79,6 +79,11 @@ index.html로 실행하고싶으면 아래 사진처럼 코드 추가
 # index.html코드에 style 추가
 ![스크린샷 2025-05-21 152527](https://github.com/user-attachments/assets/2b660080-4254-4ad4-8c82-e590d4f3bdbe)
 ![스크린샷 2025-05-21 152715](https://github.com/user-attachments/assets/576efab1-c5f3-4c6f-8ef4-f7750e594c84)
+# SAVE버튼을 누르면 addboot.txt에 내가 적은 텍스트가 저장됨
+![스크린샷 2025-05-21 153208](https://github.com/user-attachments/assets/a412f611-b555-4e5f-8a74-ebfa43b93368)
+![스크린샷 2025-05-21 153230](https://github.com/user-attachments/assets/37ba12b7-7f9c-4b3a-83d0-ea0ca3118930)
+
+
 
 
 
