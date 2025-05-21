@@ -79,17 +79,12 @@ index.html로 실행하고싶으면 아래 사진처럼 코드 추가
 # index.html코드에 style 추가
 ![스크린샷 2025-05-21 152527](https://github.com/user-attachments/assets/2b660080-4254-4ad4-8c82-e590d4f3bdbe)
 ![스크린샷 2025-05-21 152715](https://github.com/user-attachments/assets/576efab1-c5f3-4c6f-8ef4-f7750e594c84)
-# SAVE버튼을 누르면 addboot.txt에 내가 적은 텍스트가 저장됨
+# Save 버튼을 누르면 addboot.txt에 내가 적은 텍스트가 저장됨
 ![스크린샷 2025-05-21 153208](https://github.com/user-attachments/assets/a412f611-b555-4e5f-8a74-ebfa43b93368)
 ![스크린샷 2025-05-21 153230](https://github.com/user-attachments/assets/37ba12b7-7f9c-4b3a-83d0-ea0ca3118930)
-
-
-
-
 
 # 해야 할 것 ☑️
 - 드라이브에 폴더 만들고 가상환경 설정
 - flask 프레임워크 설치
 - app.py와 index.html파일 만들기 (copilot or chatGPT 사용)
 - ![스크린샷 2025-05-21 152056](https://github.com/user-attachments/assets/7af620a6-a4bb-45ce-a9d5-71f0b6b9dae6)
-
