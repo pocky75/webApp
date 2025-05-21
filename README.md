@@ -69,6 +69,7 @@ python app.py
 또는 index.html에서 우클릭으로 OPEN WITH LIVE SERVER 클릭 (두 번째 사진처럼 flask서버로 웹앱을 만들었기 때문에 app.py에서 실행해야함)
 ![스크린샷 2025-05-21 150854](https://github.com/user-attachments/assets/c80d0d42-ae9f-4313-962a-e22a94d57f25)
 ![스크린샷 2025-05-21 150938](https://github.com/user-attachments/assets/2a0dfcb4-1e48-46e4-b6b3-80815cb74f4e)
+
 index.html로 실행하고싶으면 아래 사진처럼 코드 추가
 ![스크린샷 2025-05-21 150801](https://github.com/user-attachments/assets/b146ad1f-4505-45c0-8b55-0b091cb9ff16)
 
