@@ -10,7 +10,7 @@ conda create -n webapp python=3.9
 pip install flask
 ```
 # 코드 생성
-app.py - 아래는 Flask를 이용해 이름과 전화번호를 입력받아 addbook.txt 파일에 CSV 형식으로 저장하는 간단한 웹 애플리케이션 코드이며,
+1️⃣ app.py - 아래는 Flask를 이용해 이름과 전화번호를 입력받아 addbook.txt 파일에 CSV 형식으로 저장하는 간단한 웹 애플리케이션 코드이며,
 HTML 폼을 생성하여 사용자가 이름과 전화번호를 입력할 수 있는 코드입니다.
 ```
 from flask import Flask, render_template, request, redirect, url_for
@@ -35,7 +35,7 @@ def add_contact():
 if __name__ == '__main__':
     app.run(debug=True)
 ```
-파일 Flask는 기본적으로 templates 폴더에서 HTML 파일을 찾고,
+2️⃣ 파일 Flask는 기본적으로 templates 폴더에서 HTML 파일을 찾고,
 index.html 파일의 내용입니다.
 ```
 <!DOCTYPE html>
@@ -75,8 +75,16 @@ index.html로 실행하고싶으면 아래 사진처럼 코드 추가
 
 # 실행 결과
 ![스크린샷 2025-05-21 120322](https://github.com/user-attachments/assets/475f577e-4f3c-4bfc-9729-35d5b4c55aec)
+
+index.html코드에 style 추가
+![스크린샷 2025-05-21 152527](https://github.com/user-attachments/assets/2b660080-4254-4ad4-8c82-e590d4f3bdbe)
+![스크린샷 2025-05-21 152715](https://github.com/user-attachments/assets/576efab1-c5f3-4c6f-8ef4-f7750e594c84)
+
+
+
 # 해야 할 것 ☑️
 - 드라이브에 폴더 만들고 가상환경 설정
 - flask 프레임워크 설치
 - app.py와 index.html파일 만들기 (copilot or chatGPT 사용)
-- 
+- ![스크린샷 2025-05-21 152056](https://github.com/user-attachments/assets/7af620a6-a4bb-45ce-a9d5-71f0b6b9dae6)
+
